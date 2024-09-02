@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas-vindas ao meu perfil
 
-<!--
-**Jhonz1nnx/Jhonz1nnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou João Pedro
 
-Here are some ideas to get you started:
+-Estou aprendendo vários assuntos sobre programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou aprendendo sobre a linguagem javaScript.
+
+-Utilizo esse espaço para enviar os meus projetos.
+
+### Espero que aproveitem
+
+@jhonz1nnx
+
+![](https://media1.tenor.com/m/J8Qs7sH2KmAAAAAC/spirited-away.gif)
