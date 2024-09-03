@@ -3,9 +3,7 @@
 Sou João Pedro
 
 -Estou aprendendo vários assuntos sobre programação.
-
 -Estou aprendendo sobre a linguagem javaScript.
-
 -Utilizo esse espaço para enviar os meus projetos.
 
 ### Espero que aproveitem
